@@ -5,3 +5,10 @@ chromadb
 pandas
 numpy
 sklearn
+dotenv
+utils
+portfolio
+chains
+streamlit
+uuid
+re
