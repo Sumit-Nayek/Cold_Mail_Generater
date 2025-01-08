@@ -1,0 +1,7 @@
+langchain_core
+langchain_community
+langchain_groq
+chromadb
+pandas
+numpy
+sklearn
