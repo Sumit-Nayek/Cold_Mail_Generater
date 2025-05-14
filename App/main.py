@@ -40,7 +40,7 @@ def create_streamlit_app(llm, portfolio, clean_text):
             # Generate cold email
     if st.button("Generate Email"):
         if job_description and required_skills and user_experience:
-                with st.spinner("Generating email..."):
+                with st.spinner("Generating email...Please wait"):
                         # email = generate_cold_email(job_description, required_skills, user_experience)
                     st.subheader("Generated Cold Email:")
                         # st.write(email)
