@@ -1,6 +1,5 @@
-# Cold_Mail_Generater
+
 Here, we will use the Lama3.0 for scrapping the important information from the job post, then a complete vector database was created using ChromaDB. From this database skill specific information was taken to match with the job post and develop a set of instruction to generate the cold mail using the Lama3 model.
----
 
 # 📧 Cold Mail Generator
 
